@@ -3,5 +3,5 @@ Store
 
 
 ## 1.0 Quest:
-            * Create a sql create database script.
+            * Create a sql database script.
             
