@@ -1,22 +1,16 @@
 # Prestige
-Store
+Ring
 
 
-## 1.0 Quest:
-           * Create a sql database script.
 
-## 1.1 Quest:
-           * Type values to the database.
-                      ** 3 Categories
-                      ** 6 Producers with address
-                      
-## 1.2 Quest:
-           * Type values to the database.
-                      ** 3 Products for each category
-                      ** 6 Customers
-                      
-## 1.3 Quest:
-           * Create a view.
-                      ** All products
-                      ** Three best clients
+## 1.0 Zadanie:
+           * Stwórz bazę danych dla ringu na którym rozegrane zostaną pojedyńki/grupówki.
+           * Czas / wsparcie / potknięcie / upadek - niech będą składnikami oceny.
+           * Formularz rejestracyjny dla zawodników.
+           * Kurs / Spotkanie / Gminne / Wojewódzkie / Ogólnopolskie to typy rozgrywek.
+           * Pojedynek / Grupówka
             
+           * ?? Tu możesz dodać swój wkład. 
+                Prośba o zachowanie powagi sytuacji i nie pisanie o du.ie MaryJ i polityce.
+           
+      
